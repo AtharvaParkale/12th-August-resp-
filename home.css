@@ -524,6 +524,10 @@ nav a:hover{
     html{
         font-size: 37%;
     }
+    .write{
+        width: 100%;
+        font-size: 2.2rem;
+    }
     .gallery-container{
         height: 30vh;
         width: 94vw;
