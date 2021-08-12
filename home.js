@@ -129,7 +129,7 @@ function change() {
         d.style.color='white';
     }
     else{
-        b.style.backgroundColor = "rgba(0, 0, 0, 0)";
+        b.style.backgroundColor = "#f78f20";
         c.getElementsByTagName("a")[0].style.color = 'black';
         c.getElementsByTagName("a")[1].style.color = 'black';
         c.getElementsByTagName("a")[2].style.color = 'black';

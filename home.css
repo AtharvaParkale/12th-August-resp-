@@ -17,10 +17,10 @@ nav{
     display: flex;
     align-items: center;
     justify-content:flex-end;
-    background-color: rgba(0, 0, 0, 0);
     height: 50px;
 }
 .navbar{
+    background-color: #f78f20;
     position: sticky;
     top: 0px;
     z-index: 45;
@@ -87,11 +87,12 @@ nav a:hover{
     font-family: 'Marmelad', sans-serif;
     text-align: center;
     /* margin: -4.8vh; */
+    color: black;
     
 }
 .write h1{
     margin-bottom: 1vh;
-
+    color: black;
 }
 .hm-2{
     display: flex;
@@ -341,6 +342,7 @@ nav a:hover{
     font-family: 'Marmelad', sans-serif;
     border-radius: 15px;
     margin: 1.1vh;
+    background-color: white;
     color: rgb(0, 0, 0);
     border: none;
     text-align: left;
